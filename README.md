@@ -1,4 +1,11 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+
+## Date:13-05-2024
+
+### Name: A.J.PRANAV
+
+### REGISTER NUMBER: 212222230107
+
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
